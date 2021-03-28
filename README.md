@@ -15,8 +15,6 @@ Hello, I am honored to see that you are visiting my website. I am a Student majo
 
 ## Finally, wish you and I all have a happy network environment
 
-![](https://ywrbyimg.oss-cn-chengdu.aliyuncs.com/img/background.jpg)
-
 ------
 
 [![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=Ywrby&show_icons=true)](https://github.com)
