@@ -4,7 +4,7 @@
 
 ------
 
-- Personal Blog: [ywrby.cn](https://ywrby.cn)
+- Personal Blog: [ywrby.com](https://ywrby.com)
 - E-mail: [ywrby0214@gmail.com](mailto:ywrby0214@gmail.com)
 - Twitter: [https://twitter.com](https://twitter.com/ywrby1)
 - Facebook: [https://www.facebook.com](https://www.facebook.com/profile.php?id=100033741068822)
