@@ -4,9 +4,9 @@
 
 ------
 
-- 🌱 Personal Blog: [ywrby.com](https://ywrby.com)
-- 📫 E-mail: [ywrby@foxmail.com](mailto:ywrby@foxmail.com)
-- 😄 Twitter: [https://twitter.com](https://twitter.com/ywrby1)
+- 🎓 Personal Blog: [ywrby.com](https://ywrby.com)
+- ✉️ E-mail: [ywrby@foxmail.com](mailto:ywrby@foxmail.com)
+- 📺 Bilibili: [https://space.bilibili.com](https://space.bilibili.com/353923033)
 - 💬 Facebook: [https://www.facebook.com](https://www.facebook.com/profile.php?id=100033741068822)
 
 ------
