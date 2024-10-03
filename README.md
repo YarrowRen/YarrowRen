@@ -1,17 +1,18 @@
-# Ywrby
+# Yarrow Ren
 
 ## less is more
 
-------
-
-- 🎓 Personal Blog: [ywrby.com](https://ywrby.com)
-- ✉️ E-mail: [ywrby@foxmail.com](mailto:ywrby@foxmail.com)
-- 📺 Bilibili: [https://space.bilibili.com](https://space.bilibili.com/353923033)
-- 💬 Facebook: [https://www.facebook.com](https://www.facebook.com/profile.php?id=100033741068822)
+Master of AI (UOA) | Bachelor of CS (SWU) | Artificial Intelligence, Data Science, Develop
 
 ------
 
-[![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=Ywrby&show_icons=true)](https://github.com)
+- 🎓 Personal Blog: [yarrow.ren](https://yarrow.ren)
+- ✨ E-mail: [YarrowRen@gmail.com](mailto:yarrowren@gmail.com)
+- 🔭 Linkedin: [Boyu(Yarrow) Ren](https://www.linkedin.com/in/boyu-ren-7349912b7/)
+
+------
+
+[![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=YarrowRen&show_icons=true)](https://github.com)
 
 
 <!--
