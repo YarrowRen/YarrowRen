@@ -6,7 +6,7 @@ Master of AI (UOA) | Bachelor of CS (SWU) | Artificial Intelligence, Data Scienc
 
 ------
 
-- 🎓 Personal Blog: [yarrow.ren](https://yarrow.ren)
+- 🎓 Personal Blog: [Yarrow.Ren](https://yarrow.ren)
 - ✨ E-mail: [YarrowRen@gmail.com](mailto:yarrowren@gmail.com)
 - 🔭 Linkedin: [Boyu(Yarrow) Ren](https://www.linkedin.com/in/boyu-ren-7349912b7/)
 
