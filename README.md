@@ -2,7 +2,6 @@
 
 ## less is more
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&Quote="less is more")](https://github.com/piyushsuthar/github-readme-quotes)
 
 Master of AI (UOA) | Bachelor of CS (SWU) | Artificial Intelligence, Data Science, Develop
 
