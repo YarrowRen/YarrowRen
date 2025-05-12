@@ -25,21 +25,6 @@ I have hands-on experience in both academic research and real-world applications
 - **AI Developer Intern @ HOUGARDEN.COM 🏠**  
   Assisted in developing and testing machine learning models, participated in research to improve algorithm efficiency and performance, collaborated with cross-functional teams to integrate AI technologies into products, analyzed and interpreted data to optimize model performance, and documented and presented research outcomes and progress.
 
-### 🔍 Research & Projects
-
-- **RAG System Research (LIU AI Lab)**  
-  Exploring multi-view retrieval and hierarchical abstraction using structural entropy and GNNs.
-
-- **Smart Real Estate Chatbot (HOUGARDEN)**  
-  Designed a multi-agent RAG architecture for property Q&A, including knowledge base, API integration, and map toolkits.
-
-- **Multimodal Auto-Tagging System**  
-  Combined image, text, and geolocation data to detect fraud and auto-generate property tags with GNNs.
-
-- **AI Storybook Generation**  
-  Developed a multi-agent system with multilingual TTS capabilities, supporting diverse narrative voices and styles.
-
-
 ### 🛠️ Skills
 
 - **Languages:** Python, Java  
