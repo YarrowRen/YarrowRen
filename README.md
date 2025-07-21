@@ -1,4 +1,4 @@
-<h2>Hi, I’m Boyu(Yarrow) Ren 👋 <a href="/about">中文版</a></h2>
+<h2>Hi, I’m Boyu(Yarrow) Ren 👋</h2>
 
 
 <div class="flex flex-col lg:flex-row gap-6 mt-4">
@@ -22,10 +22,6 @@
     </p>
   </div>
 
-  <!-- Right: Avatar -->
-  <div class="lg:w-1/5 hidden lg:block">
-    <img src="/title.jpg" alt="Profile photo" class="rounded-xl shadow-md w-full h-auto object-cover" />
-  </div>
 </div>
 
 
