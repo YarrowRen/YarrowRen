@@ -11,6 +11,8 @@
       I work on AI system design, retrieval optimization, and production-level model applications.
     </p>
 
+  </div>
+  <div class="lg:w-4/5">
     <p class="mt-4">
       I hold a Master's degree in <strong>Artificial Intelligence</strong> from the 
       <strong>University of Auckland</strong>.  
