@@ -2,26 +2,25 @@
 
 
 <div class="flex flex-col lg:flex-row gap-6 mt-4">
-  <!-- Left: Text -->
   <div class="lg:w-4/5">
     <p>
-      I'm a master's student at the <strong>University of Auckland</strong>, specializing in
-      <strong>Artificial Intelligence</strong>. My interests lie in
-      <strong>Natural Language Processing (NLP)</strong>,
-      <strong>Retrieval-Augmented Generation (RAG)</strong>, and
-      <strong>Machine Learning</strong>, with a particular focus on AI architecture and system design.
+      I'm an <strong>NLP Algorithm Engineer</strong> at <strong>Zuoyebang</strong>, 
+      focusing on <strong>Natural Language Processing</strong>, 
+      <strong>Retrieval-Augmented Generation (RAG)</strong>, 
+      <strong>LLMs</strong>, and <strong>multi-agent systems</strong>.
+      I work on AI system design, retrieval optimization, and production-level model applications.
     </p>
+
     <p class="mt-4">
-      I have hands-on experience in both academic research and real-world applications, having contributed to
-      AI projects in <strong>enterprise-level Agentic AI platform</strong>,
-      <strong>multimodal content tagging</strong>,
-      <strong>intelligent dialogue systems</strong>, and
-      <strong>storybook generation</strong>. My technical stack includes
-      <strong>Python</strong>, <strong>PyTorch</strong>, <strong>TensorFlow</strong>,
-      <strong>LLMs</strong>, <strong>GNNs</strong>, and <strong>RAG or MultiAgent</strong> systems.
+      I hold a Master's degree in <strong>Artificial Intelligence</strong> from the 
+      <strong>University of Auckland</strong>.  
+      My experience covers enterprise AI platforms, multimodal tagging, dialogue systems, 
+      and generative applications. My technical stack includes 
+      <strong>Python</strong>, <strong>PyTorch</strong>, 
+      <strong>TensorFlow</strong>, <strong>LLMs</strong>, 
+      <strong>GNNs</strong>, and <strong>RAG/Multi-Agent</strong> architectures.
     </p>
   </div>
-
 </div>
 
 
