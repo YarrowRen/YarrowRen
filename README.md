@@ -48,39 +48,11 @@
 - **AI Developer Intern @ HOUGARDEN.COM 🏠**  
   Assisted in developing and testing machine learning models, participated in research to improve algorithm efficiency and performance, collaborated with cross-functional teams to integrate AI technologies into products, analyzed and interpreted data to optimize model performance, and documented and presented research outcomes and progress.
 
-### 🔍 Research & Projects
-
-- **RAG System Research (LIU AI Lab)**  
-  Exploring multi-view retrieval and hierarchical abstraction using structural entropy and GNNs.
-
-- **Agentic AI System (Tencent)**   
-  Built enterprise Agentic AI platform integrating NLP, IR, LLMs, and multi-agent interaction; delivered knowledge management, autonomous task execution, conversational intelligence, and bot-driven workflows with internal KB + retrieval optimization and task-based multi-agent orchestration.
-
-- **Smart Real Estate Chatbot (HOUGARDEN)**  
-  Designed a multi-agent RAG architecture for property Q&A, including knowledge base, API integration, and map toolkits.
-
-- **Multimodal Auto-Tagging System**  
-  Combined image, text, and geolocation data to detect fraud and auto-generate property tags with GNNs.
-
-- **AI Storybook Generation**  
-  Developed a multi-agent system with multilingual TTS capabilities, supporting diverse narrative voices and styles.
-
-
-### 🛠️ Skills
-
-- **Languages:** Python, Java  
-- **Tech:** LLM, GNN, RAG, Agent Frameworks, Agentic AI, TTS  
-- **Tools:** TensorFlow, PyTorch, HuggingFace  
-- **Languages:** Chinese, English (DEP 8)
 
 ---
 
 For collaboration, research, or just to connect, feel free to [reach out](mailto:YarrowRen@gmail.com) or explore my blog at [Yarrow.Ren](https://Yarrow.Ren).
 
-
-------
-
-[![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=YarrowRen&show_icons=true)](https://github.com)
 
 
 <!--
