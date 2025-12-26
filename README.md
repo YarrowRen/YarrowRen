@@ -2,27 +2,21 @@
 
 
 <div class="flex flex-col lg:flex-row gap-6 mt-4">
-  <div class="lg:w-4/5">
     <p>
-      I'm an <strong>NLP Algorithm Engineer</strong> at <strong>Zuoyebang</strong>, 
+      NLP Algorithm Engineer at Zuoyebang, 
       focusing on <strong>Natural Language Processing</strong>, 
       <strong>Retrieval-Augmented Generation (RAG)</strong>, 
       <strong>LLMs</strong>, and <strong>multi-agent systems</strong>.
       I work on AI system design, retrieval optimization, and production-level model applications.
     </p>
-
-  </div>
-  <div class="lg:w-4/5">
     <p class="mt-4">
-      I hold a Master's degree in <strong>Artificial Intelligence</strong> from the 
-      <strong>University of Auckland</strong>.  
+      Graduated with a Master’s in <strong>Artificial Intelligence</strong> from the <strong>University of Auckland</strong>.  
       My experience covers enterprise AI platforms, multimodal tagging, dialogue systems, 
       and generative applications. My technical stack includes 
       <strong>Python</strong>, <strong>PyTorch</strong>, 
       <strong>TensorFlow</strong>, <strong>LLMs</strong>, 
       <strong>GNNs</strong>, and <strong>RAG/Multi-Agent</strong> architectures.
     </p>
-  </div>
 </div>
 
 
